@@ -7,5 +7,6 @@ public class Test01 {
         String str3="ccc";
         String str4="ff";
         String str5="vv";
+        String str6="cc";
     }
 }
